@@ -53,3 +53,5 @@ Suggested customizations:
 		- The same file also includes other bits of flavor text that could be customized to match your event's theme or location.
 		- Changing the menu text of the badge to show your event name instead of "OpenTaxus" can be done on lines 23 and 139 of [home.py](./software/home.py)
 		- Sponsor names can be added within [home.py](./software/home.py) around line 144.
+
+	You may also want to change the file that you're reading now ([README.md](README.md)) to welcome your attendee's, ctf players, etc.
