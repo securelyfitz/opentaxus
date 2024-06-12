@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "usbc")(type "KiCad")(uri "${KIPRJMOD}/usbc.pretty")(options "")(descr ""))
+  (lib (name "irda")(type "KiCad")(uri "${KIPRJMOD}/irda.pretty")(options "")(descr ""))
+  (lib (name "dpad")(type "KiCad")(uri "${KIPRJMOD}/dpad.pretty")(options "")(descr ""))
+  (lib (name "labscon")(type "KiCad")(uri "${KIPRJMOD}/labscon.pretty")(options "")(descr ""))
+  (lib (name "ws2812b")(type "KiCad")(uri "${KIPRJMOD}/ws2812b.pretty")(options "")(descr ""))
+  (lib (name "ir")(type "KiCad")(uri "${KIPRJMOD}/ir.pretty")(options "")(descr ""))
+  (lib (name "bsidesf")(type "KiCad")(uri "${KIPRJMOD}/bsidesf.pretty")(options "")(descr ""))
+  (lib (name "bsidessf")(type "KiCad")(uri "${KIPRJMOD}/bsidessf.pretty")(options "")(descr ""))
+  (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/logos.pretty")(options "")(descr ""))
+)
