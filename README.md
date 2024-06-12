@@ -36,4 +36,4 @@ circuitpython, as well as others who might like to reuse some or all
 of it for other projects.
 
 The badge hardware was designed and produced by @securityfitz, with variants being used for BSidesSF 2024 and Labscon.
-Ths badge software is a fork of the Labscon badge software, further mangled by @rlc4, @lanrat, and @securelyfitz.
+The badge software is a fork of the Labscon badge software, further mangled by @rlc4, @lanrat, and @securelyfitz.
