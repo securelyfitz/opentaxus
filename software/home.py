@@ -20,7 +20,7 @@ class home:
         self.thanks = False # we have 2 main displays, directions and thanks
         self.disp = l_disp
 
-        self.disp.setHeader("BSidesSF '24")
+        self.disp.setHeader("OpenTaxus")
 
         # ToDo: breakout badge setup into it's own thing, should be checked in code.py
         # get the username from file. This duplicates the work done by game.read_name()
@@ -136,18 +136,13 @@ class home:
     def update(self):
         # show contents, process keypresses
         # self.disp.hidden=False
-        self.disp.setHeader("BSidesSF '24")
+        self.disp.setHeader("OpenTaxus")
 
         if self.thanks:
             self.disp.setHeader("Sponsors")
             if self.disp.setText([
                 "Thank you to our",
-                "Leading Sponsors:",
-                "Anthrop\\c",
-                "Google",
-                "Microsoft",
-                "Secureframe",
-                "Wiz"
+                "Sponsors!",
             ]): 
                 if self.dpad.u.fell:
                     return "trade"

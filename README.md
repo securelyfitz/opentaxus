@@ -21,7 +21,7 @@ Once there, press the toggle up, and place your badge edge at the top of the scr
 the same badge edge of the person you are trading with. You should see once your card has
 been transmitted and you have received a card from them.
 
-You can check your collected cards by scrolling right from the "Badge '24" screen.
+You can check your collected cards by scrolling right from the "OpenTaxus" screen.
 
 When you collect enough cards, the one remaining is the solution that completes the phrase. There are 6 games to play through - try them all!
 

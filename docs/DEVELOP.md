@@ -1,4 +1,4 @@
-# Develop with BSidesSF Badge 2024
+# Develop with the OpenTaxus Badge
 
 | [Readme](../README.md) | [Using the Badge](BADGE.md) | [Playing the Game](GAME.md) | [Software Development](DEVELOP.md) | [Badge Hardware](HARDWARE.md) |
 | ---------------------- | --------------------------- | --------------------------- | ---------------------------------- | ----------------------------- |
