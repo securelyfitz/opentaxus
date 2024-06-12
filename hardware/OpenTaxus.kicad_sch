@@ -5,8 +5,8 @@
 	(uuid "0fe9e493-c481-454c-b8b0-96af10f6ed2d")
 	(paper "A4")
 	(title_block
-		(title "BSidesSF 2024 Badge")
-		(date "2024-03-06")
+		(title "OpenTaxus Badge")
+		(date "2024-06-12")
 		(rev "1.0")
 		(comment 1 "Joe FitzPatrick")
 		(comment 2 "joefitz@securinghw.com")
