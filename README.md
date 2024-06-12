@@ -1,4 +1,4 @@
-# OpenTaxus Default Text
+# OpenTaxus 
 
 | [Readme](README.md) | [Using the Badge](docs/BADGE.md) | [Playing the Game](docs/GAME.md) | [Software Development](docs/DEVELOP.md) | [Badge Hardware](docs/HARDWARE.md) |
 | ------------------- | -------------------------------- | -------------------------------- | --------------------------------------- | ---------------------------------- |
