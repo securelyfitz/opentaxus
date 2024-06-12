@@ -16,7 +16,7 @@ at the conference.
 
 In order to play in the Attribution Game, you will need to enter a name or handle when you first turn on your badge. This will stay through power cycles. It can be cleared in your settings which will force you to enter a new one.
 
-To trade cards with someone, scroll left or right until you get to the "BSidesSF '24" screen.
+To trade cards with someone, scroll left or right until you get to the "OpenTaxus" screen.
 Once there, press the toggle up, and place your badge edge at the top of the screen against
 the same badge edge of the person you are trading with. You should see once your card has
 been transmitted and you have received a card from them.
