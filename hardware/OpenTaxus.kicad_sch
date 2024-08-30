@@ -11055,7 +11055,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "5k1"
 			(at 142.0114 182.245 90)
 			(effects
 				(font
@@ -11090,7 +11090,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C11702"
+		(property "LCSC" "C25941"
 			(at 139.065 182.245 0)
 			(effects
 				(font
@@ -11099,7 +11099,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N" "0402WGF1001TCE"
+		(property "P/N" "0402WGJ0512TCE"
 			(at 139.065 182.245 0)
 			(effects
 				(font
@@ -13762,7 +13762,7 @@
 				)
 			)
 		)
-		(property "Value" "220"
+		(property "Value" "0"
 			(at 142.24 194.0814 90)
 			(effects
 				(font
@@ -13797,7 +13797,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25091"
+		(property "LCSC" "C17168"
 			(at 142.24 191.135 0)
 			(effects
 				(font
@@ -13806,7 +13806,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N" "0402WGF2200TCE"
+		(property "P/N" "0402WGF0000TCE"
 			(at 142.24 191.135 0)
 			(effects
 				(font
