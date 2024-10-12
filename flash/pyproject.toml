@@ -1,0 +1,14 @@
+[project]
+name = "opentaxus-flash"
+version = "0.1.0"
+description = "Flash script(s) for the opentaxus project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "watchdog>=5.0.3",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "ruff>=0.6.9",
+]
